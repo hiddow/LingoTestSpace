@@ -1,0 +1,63 @@
+{"time":0,"type":"sentence","start":0,"end":31,"value":"MARLEY was dead: to begin with."}
+{"time":100,"type":"word","start":0,"end":6,"value":"MARLEY"}
+{"time":450,"type":"word","start":7,"end":10,"value":"was"}
+{"time":650,"type":"word","start":11,"end":15,"value":"dead"}
+{"time":1200,"type":"word","start":17,"end":19,"value":"to"}
+{"time":1300,"type":"word","start":20,"end":25,"value":"begin"}
+{"time":1625,"type":"word","start":26,"end":30,"value":"with"}
+{"time":2367,"type":"sentence","start":32,"end":70,"value":"There is no doubt whatever about that."}
+{"time":2530,"type":"word","start":32,"end":37,"value":"There"}
+{"time":2705,"type":"word","start":38,"end":40,"value":"is"}
+{"time":2817,"type":"word","start":41,"end":43,"value":"no"}
+{"time":3017,"type":"word","start":44,"end":49,"value":"doubt"}
+{"time":3292,"type":"word","start":50,"end":58,"value":"whatever"}
+{"time":3680,"type":"word","start":59,"end":64,"value":"about"}
+{"time":3942,"type":"word","start":65,"end":69,"value":"that"}
+{"time":4710,"type":"sentence","start":71,"end":176,"value":"The register of his burial was signed by the clergyman, the clerk, the undertaker, and the chief mourner."}
+{"time":4797,"type":"word","start":71,"end":74,"value":"The"}
+{"time":4922,"type":"word","start":75,"end":83,"value":"register"}
+{"time":5410,"type":"word","start":84,"end":86,"value":"of"}
+{"time":5497,"type":"word","start":87,"end":90,"value":"his"}
+{"time":5647,"type":"word","start":91,"end":97,"value":"burial"}
+{"time":5997,"type":"word","start":98,"end":101,"value":"was"}
+{"time":6147,"type":"word","start":102,"end":108,"value":"signed"}
+{"time":6510,"type":"word","start":109,"end":111,"value":"by"}
+{"time":6622,"type":"word","start":112,"end":115,"value":"the"}
+{"time":6710,"type":"word","start":116,"end":125,"value":"clergyman"}
+{"time":7535,"type":"word","start":127,"end":130,"value":"the"}
+{"time":7622,"type":"word","start":131,"end":136,"value":"clerk"}
+{"time":8260,"type":"word","start":138,"end":141,"value":"the"}
+{"time":8435,"type":"word","start":142,"end":152,"value":"undertaker"}
+{"time":9222,"type":"word","start":154,"end":157,"value":"and"}
+{"time":9335,"type":"word","start":158,"end":161,"value":"the"}
+{"time":9385,"type":"word","start":162,"end":167,"value":"chief"}
+{"time":9660,"type":"word","start":168,"end":175,"value":"mourner"}
+{"time":10502,"type":"sentence","start":177,"end":279,"value":"Scrooge signed it: and Scrooge's name was good upon 'Change, for anything he chose to put his hand to."}
+{"time":10590,"type":"word","start":177,"end":184,"value":"Scrooge"}
+{"time":10990,"type":"word","start":185,"end":191,"value":"signed"}
+{"time":11315,"type":"word","start":192,"end":194,"value":"it"}
+{"time":11640,"type":"word","start":196,"end":199,"value":"and"}
+{"time":11777,"type":"word","start":200,"end":209,"value":"Scrooge's"}
+{"time":12215,"type":"word","start":210,"end":214,"value":"name"}
+{"time":12452,"type":"word","start":215,"end":218,"value":"was"}
+{"time":12602,"type":"word","start":219,"end":223,"value":"good"}
+{"time":12740,"type":"word","start":224,"end":228,"value":"upon"}
+{"time":13065,"type":"word","start":229,"end":236,"value":"'Change"}
+{"time":13652,"type":"word","start":238,"end":241,"value":"for"}
+{"time":13852,"type":"word","start":242,"end":250,"value":"anything"}
+{"time":14165,"type":"word","start":251,"end":253,"value":"he"}
+{"time":14265,"type":"word","start":254,"end":259,"value":"chose"}
+{"time":14590,"type":"word","start":260,"end":262,"value":"to"}
+{"time":14665,"type":"word","start":263,"end":266,"value":"put"}
+{"time":14840,"type":"word","start":267,"end":270,"value":"his"}
+{"time":14965,"type":"word","start":271,"end":275,"value":"hand"}
+{"time":15215,"type":"word","start":276,"end":278,"value":"to"}
+{"time":16007,"type":"sentence","start":280,"end":318,"value":"Old Marley was as dead as a door-nail."}
+{"time":16170,"type":"word","start":280,"end":283,"value":"Old"}
+{"time":16357,"type":"word","start":284,"end":290,"value":"Marley"}
+{"time":16682,"type":"word","start":291,"end":294,"value":"was"}
+{"time":16907,"type":"word","start":295,"end":297,"value":"as"}
+{"time":17032,"type":"word","start":298,"end":302,"value":"dead"}
+{"time":17245,"type":"word","start":303,"end":305,"value":"as"}
+{"time":17357,"type":"word","start":306,"end":307,"value":"a"}
+{"time":17395,"type":"word","start":308,"end":317,"value":"door-nail"}

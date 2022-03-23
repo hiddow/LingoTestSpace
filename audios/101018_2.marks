@@ -1,0 +1,64 @@
+{"time":0,"type":"sentence","start":0,"end":23,"value":"Because I fell in love."}
+{"time":125,"type":"word","start":0,"end":7,"value":"Because"}
+{"time":425,"type":"word","start":8,"end":9,"value":"I"}
+{"time":512,"type":"word","start":10,"end":14,"value":"fell"}
+{"time":775,"type":"word","start":15,"end":17,"value":"in"}
+{"time":850,"type":"word","start":18,"end":22,"value":"love"}
+{"time":1705,"type":"sentence","start":24,"end":49,"value":"Because you fell in love!"}
+{"time":1830,"type":"word","start":24,"end":31,"value":"Because"}
+{"time":2130,"type":"word","start":32,"end":35,"value":"you"}
+{"time":2217,"type":"word","start":36,"end":40,"value":"fell"}
+{"time":2480,"type":"word","start":41,"end":43,"value":"in"}
+{"time":2555,"type":"word","start":44,"end":48,"value":"love"}
+{"time":3410,"type":"sentence","start":50,"end":154,"value":"growled Scrooge, as if that were the only one thing in the world more ridiculous than a merry Christmas."}
+{"time":3497,"type":"word","start":50,"end":57,"value":"growled"}
+{"time":3835,"type":"word","start":58,"end":65,"value":"Scrooge"}
+{"time":4572,"type":"word","start":67,"end":69,"value":"as"}
+{"time":4747,"type":"word","start":70,"end":72,"value":"if"}
+{"time":4872,"type":"word","start":73,"end":77,"value":"that"}
+{"time":5047,"type":"word","start":78,"end":82,"value":"were"}
+{"time":5147,"type":"word","start":83,"end":86,"value":"the"}
+{"time":5297,"type":"word","start":87,"end":91,"value":"only"}
+{"time":5472,"type":"word","start":92,"end":95,"value":"one"}
+{"time":5747,"type":"word","start":96,"end":101,"value":"thing"}
+{"time":5972,"type":"word","start":102,"end":104,"value":"in"}
+{"time":6047,"type":"word","start":105,"end":108,"value":"the"}
+{"time":6110,"type":"word","start":109,"end":114,"value":"world"}
+{"time":6422,"type":"word","start":115,"end":119,"value":"more"}
+{"time":6635,"type":"word","start":120,"end":130,"value":"ridiculous"}
+{"time":7235,"type":"word","start":131,"end":135,"value":"than"}
+{"time":7360,"type":"word","start":136,"end":137,"value":"a"}
+{"time":7397,"type":"word","start":138,"end":143,"value":"merry"}
+{"time":7660,"type":"word","start":144,"end":153,"value":"Christmas"}
+{"time":8677,"type":"sentence","start":155,"end":170,"value":"Good afternoon!"}
+{"time":8827,"type":"word","start":155,"end":159,"value":"Good"}
+{"time":8940,"type":"word","start":160,"end":169,"value":"afternoon"}
+{"time":9957,"type":"sentence","start":171,"end":233,"value":"Nay, uncle, but you never came to see me before that happened."}
+{"time":10057,"type":"word","start":171,"end":174,"value":"Nay"}
+{"time":10720,"type":"word","start":176,"end":181,"value":"uncle"}
+{"time":11357,"type":"word","start":183,"end":186,"value":"but"}
+{"time":11545,"type":"word","start":187,"end":190,"value":"you"}
+{"time":11632,"type":"word","start":191,"end":196,"value":"never"}
+{"time":11882,"type":"word","start":197,"end":201,"value":"came"}
+{"time":12145,"type":"word","start":202,"end":204,"value":"to"}
+{"time":12232,"type":"word","start":205,"end":208,"value":"see"}
+{"time":12420,"type":"word","start":209,"end":211,"value":"me"}
+{"time":12570,"type":"word","start":212,"end":218,"value":"before"}
+{"time":12870,"type":"word","start":219,"end":223,"value":"that"}
+{"time":13007,"type":"word","start":224,"end":232,"value":"happened"}
+{"time":13912,"type":"sentence","start":234,"end":277,"value":"Why give it as a reason for not coming now?"}
+{"time":14087,"type":"word","start":234,"end":237,"value":"Why"}
+{"time":14262,"type":"word","start":238,"end":242,"value":"give"}
+{"time":14462,"type":"word","start":243,"end":245,"value":"it"}
+{"time":14537,"type":"word","start":246,"end":248,"value":"as"}
+{"time":14662,"type":"word","start":249,"end":250,"value":"a"}
+{"time":14725,"type":"word","start":251,"end":257,"value":"reason"}
+{"time":15087,"type":"word","start":258,"end":261,"value":"for"}
+{"time":15200,"type":"word","start":262,"end":265,"value":"not"}
+{"time":15412,"type":"word","start":266,"end":272,"value":"coming"}
+{"time":15675,"type":"word","start":273,"end":276,"value":"now"}
+{"time":16492,"type":"sentence","start":278,"end":308,"value":"Good afternoon,\" said Scrooge."}
+{"time":16567,"type":"word","start":278,"end":282,"value":"Good"}
+{"time":16692,"type":"word","start":283,"end":292,"value":"afternoon"}
+{"time":17467,"type":"word","start":295,"end":299,"value":"said"}
+{"time":17730,"type":"word","start":300,"end":307,"value":"Scrooge"}

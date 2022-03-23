@@ -1,0 +1,6 @@
+{"time":0,"type":"sentence","start":0,"end":25,"value":"I do,\" replied the Ghost."}
+{"time":100,"type":"word","start":0,"end":1,"value":"I"}
+{"time":225,"type":"word","start":2,"end":4,"value":"do"}
+{"time":825,"type":"word","start":7,"end":14,"value":"replied"}
+{"time":1200,"type":"word","start":15,"end":18,"value":"the"}
+{"time":1275,"type":"word","start":19,"end":24,"value":"Ghost"}

@@ -1,0 +1,12 @@
+{"time":0,"type":"sentence","start":0,"end":66,"value":"Plenty of prisons,\" said the gentleman, laying down the pen again."}
+{"time":125,"type":"word","start":0,"end":6,"value":"Plenty"}
+{"time":500,"type":"word","start":7,"end":9,"value":"of"}
+{"time":625,"type":"word","start":10,"end":17,"value":"prisons"}
+{"time":1375,"type":"word","start":20,"end":24,"value":"said"}
+{"time":1625,"type":"word","start":25,"end":28,"value":"the"}
+{"time":1750,"type":"word","start":29,"end":38,"value":"gentleman"}
+{"time":2512,"type":"word","start":40,"end":46,"value":"laying"}
+{"time":2950,"type":"word","start":47,"end":51,"value":"down"}
+{"time":3187,"type":"word","start":52,"end":55,"value":"the"}
+{"time":3312,"type":"word","start":56,"end":59,"value":"pen"}
+{"time":3500,"type":"word","start":60,"end":65,"value":"again"}

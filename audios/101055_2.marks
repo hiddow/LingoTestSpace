@@ -1,0 +1,58 @@
+{"time":0,"type":"sentence","start":0,"end":33,"value":"It's humbug still!\" said Scrooge."}
+{"time":87,"type":"word","start":0,"end":4,"value":"It's"}
+{"time":262,"type":"word","start":5,"end":11,"value":"humbug"}
+{"time":675,"type":"word","start":12,"end":17,"value":"still"}
+{"time":1325,"type":"word","start":20,"end":24,"value":"said"}
+{"time":1600,"type":"word","start":25,"end":32,"value":"Scrooge"}
+{"time":2567,"type":"sentence","start":34,"end":53,"value":"I won't believe it."}
+{"time":2730,"type":"word","start":34,"end":35,"value":"I"}
+{"time":2792,"type":"word","start":36,"end":41,"value":"won't"}
+{"time":3030,"type":"word","start":42,"end":49,"value":"believe"}
+{"time":3317,"type":"word","start":50,"end":52,"value":"it"}
+{"time":3910,"type":"sentence","start":54,"end":180,"value":"His colour changed though, when, without a pause, it came on through the heavy door, and passed into the room before his eyes."}
+{"time":3997,"type":"word","start":54,"end":57,"value":"His"}
+{"time":4222,"type":"word","start":58,"end":64,"value":"colour"}
+{"time":4510,"type":"word","start":65,"end":72,"value":"changed"}
+{"time":4910,"type":"word","start":73,"end":79,"value":"though"}
+{"time":5460,"type":"word","start":81,"end":85,"value":"when"}
+{"time":6097,"type":"word","start":87,"end":94,"value":"without"}
+{"time":6410,"type":"word","start":95,"end":96,"value":"a"}
+{"time":6460,"type":"word","start":97,"end":102,"value":"pause"}
+{"time":7185,"type":"word","start":104,"end":106,"value":"it"}
+{"time":7322,"type":"word","start":107,"end":111,"value":"came"}
+{"time":7585,"type":"word","start":112,"end":114,"value":"on"}
+{"time":7772,"type":"word","start":115,"end":122,"value":"through"}
+{"time":7947,"type":"word","start":123,"end":126,"value":"the"}
+{"time":8047,"type":"word","start":127,"end":132,"value":"heavy"}
+{"time":8297,"type":"word","start":133,"end":137,"value":"door"}
+{"time":8910,"type":"word","start":139,"end":142,"value":"and"}
+{"time":9060,"type":"word","start":143,"end":149,"value":"passed"}
+{"time":9410,"type":"word","start":150,"end":154,"value":"into"}
+{"time":9547,"type":"word","start":155,"end":158,"value":"the"}
+{"time":9635,"type":"word","start":159,"end":163,"value":"room"}
+{"time":9910,"type":"word","start":164,"end":170,"value":"before"}
+{"time":10210,"type":"word","start":171,"end":174,"value":"his"}
+{"time":10335,"type":"word","start":175,"end":179,"value":"eyes"}
+{"time":11202,"type":"sentence","start":181,"end":276,"value":"Upon its coming in, the dying flame leaped up, as though it cried, \"I know him; Marley's Ghost!"}
+{"time":11302,"type":"word","start":181,"end":185,"value":"Upon"}
+{"time":11640,"type":"word","start":186,"end":189,"value":"its"}
+{"time":11777,"type":"word","start":190,"end":196,"value":"coming"}
+{"time":12065,"type":"word","start":197,"end":199,"value":"in"}
+{"time":12540,"type":"word","start":201,"end":204,"value":"the"}
+{"time":12652,"type":"word","start":205,"end":210,"value":"dying"}
+{"time":12990,"type":"word","start":211,"end":216,"value":"flame"}
+{"time":13302,"type":"word","start":217,"end":223,"value":"leaped"}
+{"time":13565,"type":"word","start":224,"end":226,"value":"up"}
+{"time":14052,"type":"word","start":228,"end":230,"value":"as"}
+{"time":14215,"type":"word","start":231,"end":237,"value":"though"}
+{"time":14415,"type":"word","start":238,"end":240,"value":"it"}
+{"time":14490,"type":"word","start":241,"end":246,"value":"cried"}
+{"time":15152,"type":"word","start":249,"end":250,"value":"I"}
+{"time":15252,"type":"word","start":251,"end":255,"value":"know"}
+{"time":15490,"type":"word","start":256,"end":259,"value":"him"}
+{"time":15915,"type":"word","start":261,"end":269,"value":"Marley's"}
+{"time":16327,"type":"word","start":270,"end":275,"value":"Ghost"}
+{"time":17182,"type":"sentence","start":277,"end":292,"value":"and fell again."}
+{"time":17332,"type":"word","start":277,"end":280,"value":"and"}
+{"time":17470,"type":"word","start":281,"end":285,"value":"fell"}
+{"time":17707,"type":"word","start":286,"end":291,"value":"again"}

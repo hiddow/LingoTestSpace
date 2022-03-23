@@ -1,0 +1,65 @@
+{"time":0,"type":"sentence","start":0,"end":43,"value":"You are fettered,\" said Scrooge, trembling."}
+{"time":187,"type":"word","start":0,"end":3,"value":"You"}
+{"time":300,"type":"word","start":4,"end":7,"value":"are"}
+{"time":412,"type":"word","start":8,"end":16,"value":"fettered"}
+{"time":1062,"type":"word","start":19,"end":23,"value":"said"}
+{"time":1462,"type":"word","start":24,"end":31,"value":"Scrooge"}
+{"time":2137,"type":"word","start":33,"end":42,"value":"trembling"}
+{"time":3292,"type":"sentence","start":44,"end":56,"value":"Tell me why?"}
+{"time":3492,"type":"word","start":44,"end":48,"value":"Tell"}
+{"time":3742,"type":"word","start":49,"end":51,"value":"me"}
+{"time":3917,"type":"word","start":52,"end":55,"value":"why"}
+{"time":4797,"type":"sentence","start":57,"end":111,"value":"I wear the chain I forged in life,\" replied the Ghost."}
+{"time":4985,"type":"word","start":57,"end":58,"value":"I"}
+{"time":5047,"type":"word","start":59,"end":63,"value":"wear"}
+{"time":5297,"type":"word","start":64,"end":67,"value":"the"}
+{"time":5422,"type":"word","start":68,"end":73,"value":"chain"}
+{"time":5797,"type":"word","start":74,"end":75,"value":"I"}
+{"time":5935,"type":"word","start":76,"end":82,"value":"forged"}
+{"time":6422,"type":"word","start":83,"end":85,"value":"in"}
+{"time":6560,"type":"word","start":86,"end":90,"value":"life"}
+{"time":7122,"type":"word","start":93,"end":100,"value":"replied"}
+{"time":7672,"type":"word","start":101,"end":104,"value":"the"}
+{"time":7797,"type":"word","start":105,"end":110,"value":"Ghost"}
+{"time":8665,"type":"sentence","start":112,"end":224,"value":"I made it link by link, and yard by yard; I girded it on of my own free will, and of my own free will I wore it."}
+{"time":8852,"type":"word","start":112,"end":113,"value":"I"}
+{"time":8915,"type":"word","start":114,"end":118,"value":"made"}
+{"time":9165,"type":"word","start":119,"end":121,"value":"it"}
+{"time":9290,"type":"word","start":122,"end":126,"value":"link"}
+{"time":9665,"type":"word","start":127,"end":129,"value":"by"}
+{"time":9865,"type":"word","start":130,"end":134,"value":"link"}
+{"time":10427,"type":"word","start":136,"end":139,"value":"and"}
+{"time":10627,"type":"word","start":140,"end":144,"value":"yard"}
+{"time":10977,"type":"word","start":145,"end":147,"value":"by"}
+{"time":11177,"type":"word","start":148,"end":152,"value":"yard"}
+{"time":11852,"type":"word","start":154,"end":155,"value":"I"}
+{"time":11977,"type":"word","start":156,"end":162,"value":"girded"}
+{"time":12390,"type":"word","start":163,"end":165,"value":"it"}
+{"time":12615,"type":"word","start":166,"end":168,"value":"on"}
+{"time":12727,"type":"word","start":169,"end":171,"value":"of"}
+{"time":12852,"type":"word","start":172,"end":174,"value":"my"}
+{"time":13102,"type":"word","start":175,"end":178,"value":"own"}
+{"time":13290,"type":"word","start":179,"end":183,"value":"free"}
+{"time":13602,"type":"word","start":184,"end":188,"value":"will"}
+{"time":14077,"type":"word","start":190,"end":193,"value":"and"}
+{"time":14352,"type":"word","start":194,"end":196,"value":"of"}
+{"time":14477,"type":"word","start":197,"end":199,"value":"my"}
+{"time":14727,"type":"word","start":200,"end":203,"value":"own"}
+{"time":14915,"type":"word","start":204,"end":208,"value":"free"}
+{"time":15165,"type":"word","start":209,"end":213,"value":"will"}
+{"time":15352,"type":"word","start":214,"end":215,"value":"I"}
+{"time":15490,"type":"word","start":216,"end":220,"value":"wore"}
+{"time":15790,"type":"word","start":221,"end":223,"value":"it"}
+{"time":16370,"type":"sentence","start":225,"end":255,"value":"Is its pattern strange to you?"}
+{"time":16557,"type":"word","start":225,"end":227,"value":"Is"}
+{"time":16620,"type":"word","start":228,"end":231,"value":"its"}
+{"time":16820,"type":"word","start":232,"end":239,"value":"pattern"}
+{"time":17245,"type":"word","start":240,"end":247,"value":"strange"}
+{"time":17745,"type":"word","start":248,"end":250,"value":"to"}
+{"time":17932,"type":"word","start":251,"end":254,"value":"you"}
+{"time":18537,"type":"sentence","start":256,"end":287,"value":"Scrooge trembled more and more."}
+{"time":18737,"type":"word","start":256,"end":263,"value":"Scrooge"}
+{"time":19250,"type":"word","start":264,"end":272,"value":"trembled"}
+{"time":19787,"type":"word","start":273,"end":277,"value":"more"}
+{"time":20100,"type":"word","start":278,"end":281,"value":"and"}
+{"time":20312,"type":"word","start":282,"end":286,"value":"more"}

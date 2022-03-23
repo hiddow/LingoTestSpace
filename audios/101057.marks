@@ -1,0 +1,20 @@
+{"time":0,"type":"sentence","start":0,"end":98,"value":"Scrooge had often heard it said that Marley had no bowels, but he had never believed it until now."}
+{"time":200,"type":"word","start":0,"end":7,"value":"Scrooge"}
+{"time":712,"type":"word","start":8,"end":11,"value":"had"}
+{"time":1000,"type":"word","start":12,"end":17,"value":"often"}
+{"time":1250,"type":"word","start":18,"end":23,"value":"heard"}
+{"time":1562,"type":"word","start":24,"end":26,"value":"it"}
+{"time":1762,"type":"word","start":27,"end":31,"value":"said"}
+{"time":1937,"type":"word","start":32,"end":36,"value":"that"}
+{"time":2137,"type":"word","start":37,"end":43,"value":"Marley"}
+{"time":2512,"type":"word","start":44,"end":47,"value":"had"}
+{"time":2750,"type":"word","start":48,"end":50,"value":"no"}
+{"time":2950,"type":"word","start":51,"end":57,"value":"bowels"}
+{"time":3487,"type":"word","start":59,"end":62,"value":"but"}
+{"time":3750,"type":"word","start":63,"end":65,"value":"he"}
+{"time":3887,"type":"word","start":66,"end":69,"value":"had"}
+{"time":4037,"type":"word","start":70,"end":75,"value":"never"}
+{"time":4312,"type":"word","start":76,"end":84,"value":"believed"}
+{"time":4712,"type":"word","start":85,"end":87,"value":"it"}
+{"time":4875,"type":"word","start":88,"end":93,"value":"until"}
+{"time":5262,"type":"word","start":94,"end":97,"value":"now"}

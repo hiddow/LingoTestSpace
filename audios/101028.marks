@@ -1,0 +1,45 @@
+{"time":0,"type":"sentence","start":0,"end":25,"value":"And the Union workhouses?"}
+{"time":187,"type":"word","start":0,"end":3,"value":"And"}
+{"time":300,"type":"word","start":4,"end":7,"value":"the"}
+{"time":412,"type":"word","start":8,"end":13,"value":"Union"}
+{"time":937,"type":"word","start":14,"end":24,"value":"workhouses"}
+{"time":2105,"type":"sentence","start":26,"end":43,"value":"demanded Scrooge."}
+{"time":2292,"type":"word","start":26,"end":34,"value":"demanded"}
+{"time":2942,"type":"word","start":35,"end":42,"value":"Scrooge"}
+{"time":4010,"type":"sentence","start":44,"end":72,"value":"Are they still in operation?"}
+{"time":4210,"type":"word","start":44,"end":47,"value":"Are"}
+{"time":4310,"type":"word","start":48,"end":52,"value":"they"}
+{"time":4510,"type":"word","start":53,"end":58,"value":"still"}
+{"time":4847,"type":"word","start":59,"end":61,"value":"in"}
+{"time":5072,"type":"word","start":62,"end":71,"value":"operation"}
+{"time":6140,"type":"sentence","start":73,"end":82,"value":"They are."}
+{"time":6327,"type":"word","start":73,"end":77,"value":"They"}
+{"time":6640,"type":"word","start":78,"end":81,"value":"are"}
+{"time":7295,"type":"sentence","start":83,"end":149,"value":"Still,\" returned the gentleman, \"I wish I could say they were not."}
+{"time":7495,"type":"word","start":83,"end":88,"value":"Still"}
+{"time":8170,"type":"word","start":91,"end":99,"value":"returned"}
+{"time":8607,"type":"word","start":100,"end":103,"value":"the"}
+{"time":8732,"type":"word","start":104,"end":113,"value":"gentleman"}
+{"time":9557,"type":"word","start":116,"end":117,"value":"I"}
+{"time":9682,"type":"word","start":118,"end":122,"value":"wish"}
+{"time":9932,"type":"word","start":123,"end":124,"value":"I"}
+{"time":9982,"type":"word","start":125,"end":130,"value":"could"}
+{"time":10182,"type":"word","start":131,"end":134,"value":"say"}
+{"time":10420,"type":"word","start":135,"end":139,"value":"they"}
+{"time":10582,"type":"word","start":140,"end":144,"value":"were"}
+{"time":10732,"type":"word","start":145,"end":148,"value":"not"}
+{"time":11475,"type":"sentence","start":150,"end":206,"value":"The Treadmill and the Poor Law are in full vigour, then?"}
+{"time":11600,"type":"word","start":150,"end":153,"value":"The"}
+{"time":11725,"type":"word","start":154,"end":163,"value":"Treadmill"}
+{"time":12350,"type":"word","start":164,"end":167,"value":"and"}
+{"time":12475,"type":"word","start":168,"end":171,"value":"the"}
+{"time":12612,"type":"word","start":172,"end":176,"value":"Poor"}
+{"time":12937,"type":"word","start":177,"end":180,"value":"Law"}
+{"time":13237,"type":"word","start":181,"end":184,"value":"are"}
+{"time":13412,"type":"word","start":185,"end":187,"value":"in"}
+{"time":13600,"type":"word","start":188,"end":192,"value":"full"}
+{"time":13900,"type":"word","start":193,"end":199,"value":"vigour"}
+{"time":14600,"type":"word","start":201,"end":205,"value":"then"}
+{"time":15355,"type":"sentence","start":207,"end":220,"value":"said Scrooge."}
+{"time":15555,"type":"word","start":207,"end":211,"value":"said"}
+{"time":15855,"type":"word","start":212,"end":219,"value":"Scrooge"}

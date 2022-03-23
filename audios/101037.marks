@@ -1,0 +1,30 @@
+{"time":0,"type":"sentence","start":0,"end":91,"value":"And yet,\" said Scrooge, \"you don't think me ill-used, when I pay a day's wages for no work."}
+{"time":137,"type":"word","start":0,"end":3,"value":"And"}
+{"time":312,"type":"word","start":4,"end":7,"value":"yet"}
+{"time":1000,"type":"word","start":10,"end":14,"value":"said"}
+{"time":1250,"type":"word","start":15,"end":22,"value":"Scrooge"}
+{"time":2087,"type":"word","start":25,"end":28,"value":"you"}
+{"time":2187,"type":"word","start":29,"end":34,"value":"don't"}
+{"time":2387,"type":"word","start":35,"end":40,"value":"think"}
+{"time":2637,"type":"word","start":41,"end":43,"value":"me"}
+{"time":2825,"type":"word","start":44,"end":52,"value":"ill-used"}
+{"time":3612,"type":"word","start":54,"end":58,"value":"when"}
+{"time":3762,"type":"word","start":59,"end":60,"value":"I"}
+{"time":3887,"type":"word","start":61,"end":64,"value":"pay"}
+{"time":4125,"type":"word","start":65,"end":66,"value":"a"}
+{"time":4250,"type":"word","start":67,"end":72,"value":"day's"}
+{"time":4562,"type":"word","start":73,"end":78,"value":"wages"}
+{"time":4975,"type":"word","start":79,"end":82,"value":"for"}
+{"time":5075,"type":"word","start":83,"end":85,"value":"no"}
+{"time":5375,"type":"word","start":86,"end":90,"value":"work"}
+{"time":6142,"type":"sentence","start":92,"end":140,"value":"The clerk observed that it was only once a year."}
+{"time":6267,"type":"word","start":92,"end":95,"value":"The"}
+{"time":6392,"type":"word","start":96,"end":101,"value":"clerk"}
+{"time":6705,"type":"word","start":102,"end":110,"value":"observed"}
+{"time":7342,"type":"word","start":111,"end":115,"value":"that"}
+{"time":7580,"type":"word","start":116,"end":118,"value":"it"}
+{"time":7705,"type":"word","start":119,"end":122,"value":"was"}
+{"time":7980,"type":"word","start":123,"end":127,"value":"only"}
+{"time":8230,"type":"word","start":128,"end":132,"value":"once"}
+{"time":8517,"type":"word","start":133,"end":134,"value":"a"}
+{"time":8655,"type":"word","start":135,"end":139,"value":"year"}

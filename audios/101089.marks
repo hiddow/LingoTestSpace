@@ -1,0 +1,11 @@
+{"time":0,"type":"sentence","start":0,"end":6,"value":"It is."}
+{"time":137,"type":"word","start":0,"end":2,"value":"It"}
+{"time":337,"type":"word","start":3,"end":5,"value":"is"}
+{"time":1080,"type":"sentence","start":7,"end":48,"value":"I--I think I'd rather not,\" said Scrooge."}
+{"time":1280,"type":"word","start":7,"end":11,"value":"I--I"}
+{"time":1530,"type":"word","start":12,"end":17,"value":"think"}
+{"time":1792,"type":"word","start":18,"end":21,"value":"I'd"}
+{"time":2017,"type":"word","start":22,"end":28,"value":"rather"}
+{"time":2330,"type":"word","start":29,"end":32,"value":"not"}
+{"time":2955,"type":"word","start":35,"end":39,"value":"said"}
+{"time":3217,"type":"word","start":40,"end":47,"value":"Scrooge"}

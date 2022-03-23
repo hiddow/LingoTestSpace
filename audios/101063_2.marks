@@ -1,0 +1,9 @@
+{"time":0,"type":"sentence","start":0,"end":45,"value":"You don't believe in me,\" observed the Ghost."}
+{"time":100,"type":"word","start":0,"end":3,"value":"You"}
+{"time":200,"type":"word","start":4,"end":9,"value":"don't"}
+{"time":387,"type":"word","start":10,"end":17,"value":"believe"}
+{"time":675,"type":"word","start":18,"end":20,"value":"in"}
+{"time":775,"type":"word","start":21,"end":23,"value":"me"}
+{"time":1300,"type":"word","start":26,"end":34,"value":"observed"}
+{"time":1700,"type":"word","start":35,"end":38,"value":"the"}
+{"time":1775,"type":"word","start":39,"end":44,"value":"Ghost"}

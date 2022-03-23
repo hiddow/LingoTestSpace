@@ -1,0 +1,14 @@
+{"time":0,"type":"sentence","start":0,"end":59,"value":"Scrooge followed to the window: desperate in his curiosity."}
+{"time":87,"type":"word","start":0,"end":7,"value":"Scrooge"}
+{"time":562,"type":"word","start":8,"end":16,"value":"followed"}
+{"time":887,"type":"word","start":17,"end":19,"value":"to"}
+{"time":987,"type":"word","start":20,"end":23,"value":"the"}
+{"time":1075,"type":"word","start":24,"end":30,"value":"window"}
+{"time":1775,"type":"word","start":32,"end":41,"value":"desperate"}
+{"time":2187,"type":"word","start":42,"end":44,"value":"in"}
+{"time":2275,"type":"word","start":45,"end":48,"value":"his"}
+{"time":2412,"type":"word","start":49,"end":58,"value":"curiosity"}
+{"time":3630,"type":"sentence","start":60,"end":74,"value":"He looked out."}
+{"time":3755,"type":"word","start":60,"end":62,"value":"He"}
+{"time":3880,"type":"word","start":63,"end":69,"value":"looked"}
+{"time":4142,"type":"word","start":70,"end":73,"value":"out"}

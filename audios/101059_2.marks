@@ -1,0 +1,26 @@
+{"time":0,"type":"sentence","start":0,"end":49,"value":"How now!\" said Scrooge, caustic and cold as ever."}
+{"time":100,"type":"word","start":0,"end":3,"value":"How"}
+{"time":300,"type":"word","start":4,"end":7,"value":"now"}
+{"time":937,"type":"word","start":10,"end":14,"value":"said"}
+{"time":1225,"type":"word","start":15,"end":22,"value":"Scrooge"}
+{"time":1962,"type":"word","start":24,"end":31,"value":"caustic"}
+{"time":2412,"type":"word","start":32,"end":35,"value":"and"}
+{"time":2525,"type":"word","start":36,"end":40,"value":"cold"}
+{"time":2787,"type":"word","start":41,"end":43,"value":"as"}
+{"time":2937,"type":"word","start":44,"end":48,"value":"ever"}
+{"time":3705,"type":"sentence","start":50,"end":75,"value":"What do you want with me?"}
+{"time":3855,"type":"word","start":50,"end":54,"value":"What"}
+{"time":3980,"type":"word","start":55,"end":57,"value":"do"}
+{"time":4030,"type":"word","start":58,"end":61,"value":"you"}
+{"time":4092,"type":"word","start":62,"end":66,"value":"want"}
+{"time":4267,"type":"word","start":67,"end":71,"value":"with"}
+{"time":4417,"type":"word","start":72,"end":74,"value":"me"}
+{"time":5172,"type":"sentence","start":76,"end":81,"value":"Much!"}
+{"time":5322,"type":"word","start":76,"end":80,"value":"Much"}
+{"time":6177,"type":"sentence","start":82,"end":118,"value":"--Marley's voice, no doubt about it."}
+{"time":6277,"type":"word","start":82,"end":92,"value":"--Marley's"}
+{"time":6727,"type":"word","start":93,"end":98,"value":"voice"}
+{"time":7340,"type":"word","start":100,"end":102,"value":"no"}
+{"time":7515,"type":"word","start":103,"end":108,"value":"doubt"}
+{"time":7740,"type":"word","start":109,"end":114,"value":"about"}
+{"time":8015,"type":"word","start":115,"end":117,"value":"it"}

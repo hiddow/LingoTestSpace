@@ -1,0 +1,36 @@
+{"time":0,"type":"sentence","start":0,"end":25,"value":"If quite convenient, sir."}
+{"time":100,"type":"word","start":0,"end":2,"value":"If"}
+{"time":262,"type":"word","start":3,"end":8,"value":"quite"}
+{"time":537,"type":"word","start":9,"end":19,"value":"convenient"}
+{"time":1312,"type":"word","start":21,"end":24,"value":"sir"}
+{"time":2217,"type":"sentence","start":26,"end":81,"value":"It's not convenient,\" said Scrooge, \"and it's not fair."}
+{"time":2317,"type":"word","start":26,"end":30,"value":"It's"}
+{"time":2505,"type":"word","start":31,"end":34,"value":"not"}
+{"time":2717,"type":"word","start":35,"end":45,"value":"convenient"}
+{"time":3517,"type":"word","start":48,"end":52,"value":"said"}
+{"time":3792,"type":"word","start":53,"end":60,"value":"Scrooge"}
+{"time":4542,"type":"word","start":63,"end":66,"value":"and"}
+{"time":4655,"type":"word","start":67,"end":71,"value":"it's"}
+{"time":4792,"type":"word","start":72,"end":75,"value":"not"}
+{"time":4980,"type":"word","start":76,"end":80,"value":"fair"}
+{"time":5847,"type":"sentence","start":82,"end":165,"value":"If I was to stop half-a-crown for it, you'd think yourself ill-used, I'll be bound?"}
+{"time":5947,"type":"word","start":82,"end":84,"value":"If"}
+{"time":6122,"type":"word","start":85,"end":86,"value":"I"}
+{"time":6210,"type":"word","start":87,"end":90,"value":"was"}
+{"time":6385,"type":"word","start":91,"end":93,"value":"to"}
+{"time":6472,"type":"word","start":94,"end":98,"value":"stop"}
+{"time":6810,"type":"word","start":99,"end":111,"value":"half-a-crown"}
+{"time":7335,"type":"word","start":112,"end":115,"value":"for"}
+{"time":7547,"type":"word","start":116,"end":118,"value":"it"}
+{"time":7835,"type":"word","start":120,"end":125,"value":"you'd"}
+{"time":7985,"type":"word","start":126,"end":131,"value":"think"}
+{"time":8197,"type":"word","start":132,"end":140,"value":"yourself"}
+{"time":8597,"type":"word","start":141,"end":149,"value":"ill-used"}
+{"time":9347,"type":"word","start":151,"end":155,"value":"I'll"}
+{"time":9460,"type":"word","start":156,"end":158,"value":"be"}
+{"time":9572,"type":"word","start":159,"end":164,"value":"bound"}
+{"time":10465,"type":"sentence","start":166,"end":191,"value":"The clerk smiled faintly."}
+{"time":10627,"type":"word","start":166,"end":169,"value":"The"}
+{"time":10727,"type":"word","start":170,"end":175,"value":"clerk"}
+{"time":11015,"type":"word","start":176,"end":182,"value":"smiled"}
+{"time":11377,"type":"word","start":183,"end":190,"value":"faintly"}

@@ -1,0 +1,6 @@
+{"time":0,"type":"sentence","start":0,"end":5,"value":"Slow!"}
+{"time":200,"type":"word","start":0,"end":4,"value":"Slow"}
+{"time":1080,"type":"sentence","start":6,"end":25,"value":"the Ghost repeated."}
+{"time":1217,"type":"word","start":6,"end":9,"value":"the"}
+{"time":1417,"type":"word","start":10,"end":15,"value":"Ghost"}
+{"time":1792,"type":"word","start":16,"end":24,"value":"repeated"}

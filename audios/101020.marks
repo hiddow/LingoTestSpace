@@ -1,0 +1,58 @@
+{"time":0,"type":"sentence","start":0,"end":55,"value":"I am sorry, with all my heart, to find you so resolute."}
+{"time":187,"type":"word","start":0,"end":1,"value":"I"}
+{"time":300,"type":"word","start":2,"end":4,"value":"am"}
+{"time":500,"type":"word","start":5,"end":10,"value":"sorry"}
+{"time":1037,"type":"word","start":12,"end":16,"value":"with"}
+{"time":1375,"type":"word","start":17,"end":20,"value":"all"}
+{"time":1562,"type":"word","start":21,"end":23,"value":"my"}
+{"time":1762,"type":"word","start":24,"end":29,"value":"heart"}
+{"time":2325,"type":"word","start":31,"end":33,"value":"to"}
+{"time":2512,"type":"word","start":34,"end":38,"value":"find"}
+{"time":2825,"type":"word","start":39,"end":42,"value":"you"}
+{"time":3000,"type":"word","start":43,"end":45,"value":"so"}
+{"time":3287,"type":"word","start":46,"end":54,"value":"resolute"}
+{"time":4255,"type":"sentence","start":56,"end":116,"value":"We have never had any quarrel, to which I have been a party."}
+{"time":4392,"type":"word","start":56,"end":58,"value":"We"}
+{"time":4505,"type":"word","start":59,"end":63,"value":"have"}
+{"time":4705,"type":"word","start":64,"end":69,"value":"never"}
+{"time":4967,"type":"word","start":70,"end":73,"value":"had"}
+{"time":5255,"type":"word","start":74,"end":77,"value":"any"}
+{"time":5505,"type":"word","start":78,"end":85,"value":"quarrel"}
+{"time":6105,"type":"word","start":87,"end":89,"value":"to"}
+{"time":6342,"type":"word","start":90,"end":95,"value":"which"}
+{"time":6567,"type":"word","start":96,"end":97,"value":"I"}
+{"time":6580,"type":"word","start":98,"end":102,"value":"have"}
+{"time":6767,"type":"word","start":103,"end":107,"value":"been"}
+{"time":6942,"type":"word","start":108,"end":109,"value":"a"}
+{"time":7080,"type":"word","start":110,"end":115,"value":"party"}
+{"time":7972,"type":"sentence","start":117,"end":213,"value":"But I have made the trial in homage to Christmas, and I'll keep my Christmas humour to the last."}
+{"time":8035,"type":"word","start":117,"end":120,"value":"But"}
+{"time":8272,"type":"word","start":121,"end":122,"value":"I"}
+{"time":8310,"type":"word","start":123,"end":127,"value":"have"}
+{"time":8472,"type":"word","start":128,"end":132,"value":"made"}
+{"time":8785,"type":"word","start":133,"end":136,"value":"the"}
+{"time":8910,"type":"word","start":137,"end":142,"value":"trial"}
+{"time":9347,"type":"word","start":143,"end":145,"value":"in"}
+{"time":9535,"type":"word","start":146,"end":152,"value":"homage"}
+{"time":9935,"type":"word","start":153,"end":155,"value":"to"}
+{"time":10097,"type":"word","start":156,"end":165,"value":"Christmas"}
+{"time":10860,"type":"word","start":167,"end":170,"value":"and"}
+{"time":11035,"type":"word","start":171,"end":175,"value":"I'll"}
+{"time":11185,"type":"word","start":176,"end":180,"value":"keep"}
+{"time":11460,"type":"word","start":181,"end":183,"value":"my"}
+{"time":11647,"type":"word","start":184,"end":193,"value":"Christmas"}
+{"time":12160,"type":"word","start":194,"end":200,"value":"humour"}
+{"time":12535,"type":"word","start":201,"end":203,"value":"to"}
+{"time":12660,"type":"word","start":204,"end":207,"value":"the"}
+{"time":12785,"type":"word","start":208,"end":212,"value":"last"}
+{"time":13665,"type":"sentence","start":214,"end":242,"value":"So A Merry Christmas, uncle!"}
+{"time":13865,"type":"word","start":214,"end":216,"value":"So"}
+{"time":14040,"type":"word","start":217,"end":218,"value":"A"}
+{"time":14115,"type":"word","start":219,"end":224,"value":"Merry"}
+{"time":14415,"type":"word","start":225,"end":234,"value":"Christmas"}
+{"time":15152,"type":"word","start":236,"end":241,"value":"uncle"}
+{"time":16020,"type":"sentence","start":243,"end":273,"value":"Good afternoon!\" said Scrooge."}
+{"time":16145,"type":"word","start":243,"end":247,"value":"Good"}
+{"time":16357,"type":"word","start":248,"end":257,"value":"afternoon"}
+{"time":17270,"type":"word","start":260,"end":264,"value":"said"}
+{"time":17645,"type":"word","start":265,"end":272,"value":"Scrooge"}

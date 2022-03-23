@@ -1,0 +1,67 @@
+{"time":0,"type":"sentence","start":0,"end":83,"value":"Scrooge and Marley's, I believe,\" said one of the gentlemen, referring to his list."}
+{"time":62,"type":"word","start":0,"end":7,"value":"Scrooge"}
+{"time":687,"type":"word","start":8,"end":11,"value":"and"}
+{"time":837,"type":"word","start":12,"end":20,"value":"Marley's"}
+{"time":1487,"type":"word","start":22,"end":23,"value":"I"}
+{"time":1812,"type":"word","start":24,"end":31,"value":"believe"}
+{"time":2625,"type":"word","start":34,"end":38,"value":"said"}
+{"time":2825,"type":"word","start":39,"end":42,"value":"one"}
+{"time":2950,"type":"word","start":43,"end":45,"value":"of"}
+{"time":3062,"type":"word","start":46,"end":49,"value":"the"}
+{"time":3187,"type":"word","start":50,"end":59,"value":"gentlemen"}
+{"time":4000,"type":"word","start":61,"end":70,"value":"referring"}
+{"time":4500,"type":"word","start":71,"end":73,"value":"to"}
+{"time":4562,"type":"word","start":74,"end":77,"value":"his"}
+{"time":4812,"type":"word","start":78,"end":82,"value":"list"}
+{"time":5605,"type":"sentence","start":84,"end":145,"value":"Have I the pleasure of addressing Mr. Scrooge, or Mr. Marley?"}
+{"time":5742,"type":"word","start":84,"end":88,"value":"Have"}
+{"time":5980,"type":"word","start":89,"end":90,"value":"I"}
+{"time":6055,"type":"word","start":91,"end":94,"value":"the"}
+{"time":6167,"type":"word","start":95,"end":103,"value":"pleasure"}
+{"time":6605,"type":"word","start":104,"end":106,"value":"of"}
+{"time":6730,"type":"word","start":107,"end":117,"value":"addressing"}
+{"time":7167,"type":"word","start":118,"end":121,"value":"Mr."}
+{"time":7480,"type":"word","start":122,"end":129,"value":"Scrooge"}
+{"time":8292,"type":"word","start":131,"end":133,"value":"or"}
+{"time":8430,"type":"word","start":134,"end":137,"value":"Mr."}
+{"time":8792,"type":"word","start":138,"end":144,"value":"Marley"}
+{"time":9647,"type":"sentence","start":146,"end":207,"value":"Mr. Marley has been dead these seven years,\" Scrooge replied."}
+{"time":9785,"type":"word","start":146,"end":149,"value":"Mr."}
+{"time":10147,"type":"word","start":150,"end":156,"value":"Marley"}
+{"time":10585,"type":"word","start":157,"end":160,"value":"has"}
+{"time":10785,"type":"word","start":161,"end":165,"value":"been"}
+{"time":11085,"type":"word","start":166,"end":170,"value":"dead"}
+{"time":11322,"type":"word","start":171,"end":176,"value":"these"}
+{"time":11585,"type":"word","start":177,"end":182,"value":"seven"}
+{"time":11922,"type":"word","start":183,"end":188,"value":"years"}
+{"time":12435,"type":"word","start":191,"end":198,"value":"Scrooge"}
+{"time":13147,"type":"word","start":199,"end":206,"value":"replied"}
+{"time":14127,"type":"sentence","start":208,"end":249,"value":"He died seven years ago, this very night."}
+{"time":14265,"type":"word","start":208,"end":210,"value":"He"}
+{"time":14440,"type":"word","start":211,"end":215,"value":"died"}
+{"time":14752,"type":"word","start":216,"end":221,"value":"seven"}
+{"time":15127,"type":"word","start":222,"end":227,"value":"years"}
+{"time":15377,"type":"word","start":228,"end":231,"value":"ago"}
+{"time":15802,"type":"word","start":233,"end":237,"value":"this"}
+{"time":16252,"type":"word","start":238,"end":242,"value":"very"}
+{"time":16515,"type":"word","start":243,"end":248,"value":"night"}
+{"time":17307,"type":"sentence","start":250,"end":376,"value":"We have no doubt his liberality is well represented by his surviving partner,\" said the gentleman, presenting his credentials."}
+{"time":17445,"type":"word","start":250,"end":252,"value":"We"}
+{"time":17620,"type":"word","start":253,"end":257,"value":"have"}
+{"time":17807,"type":"word","start":258,"end":260,"value":"no"}
+{"time":18070,"type":"word","start":261,"end":266,"value":"doubt"}
+{"time":18345,"type":"word","start":267,"end":270,"value":"his"}
+{"time":18557,"type":"word","start":271,"end":281,"value":"liberality"}
+{"time":19307,"type":"word","start":282,"end":284,"value":"is"}
+{"time":19445,"type":"word","start":285,"end":289,"value":"well"}
+{"time":19732,"type":"word","start":290,"end":301,"value":"represented"}
+{"time":20432,"type":"word","start":302,"end":304,"value":"by"}
+{"time":20570,"type":"word","start":305,"end":308,"value":"his"}
+{"time":20745,"type":"word","start":309,"end":318,"value":"surviving"}
+{"time":21307,"type":"word","start":319,"end":326,"value":"partner"}
+{"time":21895,"type":"word","start":329,"end":333,"value":"said"}
+{"time":22245,"type":"word","start":334,"end":337,"value":"the"}
+{"time":22432,"type":"word","start":338,"end":347,"value":"gentleman"}
+{"time":22957,"type":"word","start":349,"end":359,"value":"presenting"}
+{"time":23620,"type":"word","start":360,"end":363,"value":"his"}
+{"time":23807,"type":"word","start":364,"end":375,"value":"credentials"}

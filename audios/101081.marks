@@ -1,0 +1,16 @@
+{"time":0,"type":"sentence","start":0,"end":81,"value":"You might have got over a great quantity of ground in seven years,\" said Scrooge."}
+{"time":137,"type":"word","start":0,"end":3,"value":"You"}
+{"time":300,"type":"word","start":4,"end":9,"value":"might"}
+{"time":500,"type":"word","start":10,"end":14,"value":"have"}
+{"time":687,"type":"word","start":15,"end":18,"value":"got"}
+{"time":937,"type":"word","start":19,"end":23,"value":"over"}
+{"time":1137,"type":"word","start":24,"end":25,"value":"a"}
+{"time":1250,"type":"word","start":26,"end":31,"value":"great"}
+{"time":1562,"type":"word","start":32,"end":40,"value":"quantity"}
+{"time":2087,"type":"word","start":41,"end":43,"value":"of"}
+{"time":2237,"type":"word","start":44,"end":50,"value":"ground"}
+{"time":2625,"type":"word","start":51,"end":53,"value":"in"}
+{"time":2787,"type":"word","start":54,"end":59,"value":"seven"}
+{"time":3125,"type":"word","start":60,"end":65,"value":"years"}
+{"time":3887,"type":"word","start":68,"end":72,"value":"said"}
+{"time":4187,"type":"word","start":73,"end":80,"value":"Scrooge"}

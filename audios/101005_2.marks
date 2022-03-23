@@ -1,0 +1,57 @@
+{"time":0,"type":"sentence","start":0,"end":44,"value":"Scrooge never painted out Old Marley's name."}
+{"time":150,"type":"word","start":0,"end":7,"value":"Scrooge"}
+{"time":600,"type":"word","start":8,"end":13,"value":"never"}
+{"time":862,"type":"word","start":14,"end":21,"value":"painted"}
+{"time":1187,"type":"word","start":22,"end":25,"value":"out"}
+{"time":1350,"type":"word","start":26,"end":29,"value":"Old"}
+{"time":1550,"type":"word","start":30,"end":38,"value":"Marley's"}
+{"time":1925,"type":"word","start":39,"end":43,"value":"name"}
+{"time":2780,"type":"sentence","start":45,"end":124,"value":"There it stood, years afterwards, above the warehouse door: Scrooge and Marley."}
+{"time":2880,"type":"word","start":45,"end":50,"value":"There"}
+{"time":3067,"type":"word","start":51,"end":53,"value":"it"}
+{"time":3155,"type":"word","start":54,"end":59,"value":"stood"}
+{"time":3817,"type":"word","start":61,"end":66,"value":"years"}
+{"time":4142,"type":"word","start":67,"end":77,"value":"afterwards"}
+{"time":4980,"type":"word","start":79,"end":84,"value":"above"}
+{"time":5305,"type":"word","start":85,"end":88,"value":"the"}
+{"time":5380,"type":"word","start":89,"end":98,"value":"warehouse"}
+{"time":5867,"type":"word","start":99,"end":103,"value":"door"}
+{"time":6492,"type":"word","start":105,"end":112,"value":"Scrooge"}
+{"time":6955,"type":"word","start":113,"end":116,"value":"and"}
+{"time":7030,"type":"word","start":117,"end":123,"value":"Marley"}
+{"time":7910,"type":"sentence","start":125,"end":166,"value":"The firm was known as Scrooge and Marley."}
+{"time":8072,"type":"word","start":125,"end":128,"value":"The"}
+{"time":8197,"type":"word","start":129,"end":133,"value":"firm"}
+{"time":8510,"type":"word","start":134,"end":137,"value":"was"}
+{"time":8647,"type":"word","start":138,"end":143,"value":"known"}
+{"time":8860,"type":"word","start":144,"end":146,"value":"as"}
+{"time":8960,"type":"word","start":147,"end":154,"value":"Scrooge"}
+{"time":9360,"type":"word","start":155,"end":158,"value":"and"}
+{"time":9435,"type":"word","start":159,"end":165,"value":"Marley"}
+{"time":10302,"type":"sentence","start":167,"end":280,"value":"Sometimes people new to the business called Scrooge Scrooge, and sometimes Marley, but he answered to both names."}
+{"time":10377,"type":"word","start":167,"end":176,"value":"Sometimes"}
+{"time":10977,"type":"word","start":177,"end":183,"value":"people"}
+{"time":11265,"type":"word","start":184,"end":187,"value":"new"}
+{"time":11440,"type":"word","start":188,"end":190,"value":"to"}
+{"time":11527,"type":"word","start":191,"end":194,"value":"the"}
+{"time":11615,"type":"word","start":195,"end":203,"value":"business"}
+{"time":12040,"type":"word","start":204,"end":210,"value":"called"}
+{"time":12277,"type":"word","start":211,"end":218,"value":"Scrooge"}
+{"time":12602,"type":"word","start":219,"end":226,"value":"Scrooge"}
+{"time":13327,"type":"word","start":228,"end":231,"value":"and"}
+{"time":13465,"type":"word","start":232,"end":241,"value":"sometimes"}
+{"time":13952,"type":"word","start":242,"end":248,"value":"Marley"}
+{"time":14527,"type":"word","start":250,"end":253,"value":"but"}
+{"time":14690,"type":"word","start":254,"end":256,"value":"he"}
+{"time":14827,"type":"word","start":257,"end":265,"value":"answered"}
+{"time":15102,"type":"word","start":266,"end":268,"value":"to"}
+{"time":15177,"type":"word","start":269,"end":273,"value":"both"}
+{"time":15415,"type":"word","start":274,"end":279,"value":"names"}
+{"time":16320,"type":"sentence","start":281,"end":308,"value":"It was all the same to him."}
+{"time":16482,"type":"word","start":281,"end":283,"value":"It"}
+{"time":16582,"type":"word","start":284,"end":287,"value":"was"}
+{"time":16745,"type":"word","start":288,"end":291,"value":"all"}
+{"time":16882,"type":"word","start":292,"end":295,"value":"the"}
+{"time":16957,"type":"word","start":296,"end":300,"value":"same"}
+{"time":17232,"type":"word","start":301,"end":303,"value":"to"}
+{"time":17345,"type":"word","start":304,"end":307,"value":"him"}

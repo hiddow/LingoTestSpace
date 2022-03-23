@@ -1,0 +1,9 @@
+{"time":0,"type":"sentence","start":0,"end":50,"value":"Humbug!\" said Scrooge; and walked across the room."}
+{"time":87,"type":"word","start":0,"end":6,"value":"Humbug"}
+{"time":887,"type":"word","start":9,"end":13,"value":"said"}
+{"time":1175,"type":"word","start":14,"end":21,"value":"Scrooge"}
+{"time":1912,"type":"word","start":23,"end":26,"value":"and"}
+{"time":2075,"type":"word","start":27,"end":33,"value":"walked"}
+{"time":2300,"type":"word","start":34,"end":40,"value":"across"}
+{"time":2625,"type":"word","start":41,"end":44,"value":"the"}
+{"time":2725,"type":"word","start":45,"end":49,"value":"room"}

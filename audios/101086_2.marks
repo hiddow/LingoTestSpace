@@ -1,0 +1,80 @@
+{"time":0,"type":"sentence","start":0,"end":26,"value":"Hear me!\" cried the Ghost."}
+{"time":100,"type":"word","start":0,"end":4,"value":"Hear"}
+{"time":337,"type":"word","start":5,"end":7,"value":"me"}
+{"time":825,"type":"word","start":10,"end":15,"value":"cried"}
+{"time":1087,"type":"word","start":16,"end":19,"value":"the"}
+{"time":1162,"type":"word","start":20,"end":25,"value":"Ghost"}
+{"time":2055,"type":"sentence","start":27,"end":50,"value":"My time is nearly gone."}
+{"time":2205,"type":"word","start":27,"end":29,"value":"My"}
+{"time":2367,"type":"word","start":30,"end":34,"value":"time"}
+{"time":2667,"type":"word","start":35,"end":37,"value":"is"}
+{"time":2767,"type":"word","start":38,"end":44,"value":"nearly"}
+{"time":3017,"type":"word","start":45,"end":49,"value":"gone"}
+{"time":3922,"type":"sentence","start":51,"end":73,"value":"I will,\" said Scrooge."}
+{"time":4010,"type":"word","start":51,"end":52,"value":"I"}
+{"time":4122,"type":"word","start":53,"end":57,"value":"will"}
+{"time":4747,"type":"word","start":60,"end":64,"value":"said"}
+{"time":5022,"type":"word","start":65,"end":72,"value":"Scrooge"}
+{"time":6002,"type":"sentence","start":74,"end":100,"value":"But don't be hard upon me!"}
+{"time":6140,"type":"word","start":74,"end":77,"value":"But"}
+{"time":6277,"type":"word","start":78,"end":83,"value":"don't"}
+{"time":6465,"type":"word","start":84,"end":86,"value":"be"}
+{"time":6577,"type":"word","start":87,"end":91,"value":"hard"}
+{"time":6790,"type":"word","start":92,"end":96,"value":"upon"}
+{"time":7077,"type":"word","start":97,"end":99,"value":"me"}
+{"time":7820,"type":"sentence","start":101,"end":125,"value":"Don't be flowery, Jacob!"}
+{"time":7907,"type":"word","start":101,"end":106,"value":"Don't"}
+{"time":8132,"type":"word","start":107,"end":109,"value":"be"}
+{"time":8245,"type":"word","start":110,"end":117,"value":"flowery"}
+{"time":9057,"type":"word","start":119,"end":124,"value":"Jacob"}
+{"time":10037,"type":"sentence","start":126,"end":131,"value":"Pray!"}
+{"time":10162,"type":"word","start":126,"end":130,"value":"Pray"}
+{"time":11005,"type":"sentence","start":132,"end":211,"value":"How it is that I appear before you in a shape that you can see, I may not tell."}
+{"time":11080,"type":"word","start":132,"end":135,"value":"How"}
+{"time":11292,"type":"word","start":136,"end":138,"value":"it"}
+{"time":11380,"type":"word","start":139,"end":141,"value":"is"}
+{"time":11567,"type":"word","start":142,"end":146,"value":"that"}
+{"time":11692,"type":"word","start":147,"end":148,"value":"I"}
+{"time":11830,"type":"word","start":149,"end":155,"value":"appear"}
+{"time":12180,"type":"word","start":156,"end":162,"value":"before"}
+{"time":12517,"type":"word","start":163,"end":166,"value":"you"}
+{"time":12705,"type":"word","start":167,"end":169,"value":"in"}
+{"time":12767,"type":"word","start":170,"end":171,"value":"a"}
+{"time":12805,"type":"word","start":172,"end":177,"value":"shape"}
+{"time":13155,"type":"word","start":178,"end":182,"value":"that"}
+{"time":13317,"type":"word","start":183,"end":186,"value":"you"}
+{"time":13405,"type":"word","start":187,"end":190,"value":"can"}
+{"time":13567,"type":"word","start":191,"end":194,"value":"see"}
+{"time":14155,"type":"word","start":196,"end":197,"value":"I"}
+{"time":14242,"type":"word","start":198,"end":201,"value":"may"}
+{"time":14392,"type":"word","start":202,"end":205,"value":"not"}
+{"time":14605,"type":"word","start":206,"end":210,"value":"tell"}
+{"time":15435,"type":"sentence","start":212,"end":264,"value":"I have sat invisible beside you many and many a day."}
+{"time":15597,"type":"word","start":212,"end":213,"value":"I"}
+{"time":15697,"type":"word","start":214,"end":218,"value":"have"}
+{"time":15822,"type":"word","start":219,"end":222,"value":"sat"}
+{"time":16110,"type":"word","start":223,"end":232,"value":"invisible"}
+{"time":16597,"type":"word","start":233,"end":239,"value":"beside"}
+{"time":17022,"type":"word","start":240,"end":243,"value":"you"}
+{"time":17085,"type":"word","start":244,"end":248,"value":"many"}
+{"time":17372,"type":"word","start":249,"end":252,"value":"and"}
+{"time":17472,"type":"word","start":253,"end":257,"value":"many"}
+{"time":17710,"type":"word","start":258,"end":259,"value":"a"}
+{"time":17760,"type":"word","start":260,"end":263,"value":"day"}
+{"time":18602,"type":"sentence","start":265,"end":294,"value":"It was not an agreeable idea."}
+{"time":18765,"type":"word","start":265,"end":267,"value":"It"}
+{"time":18865,"type":"word","start":268,"end":271,"value":"was"}
+{"time":19027,"type":"word","start":272,"end":275,"value":"not"}
+{"time":19227,"type":"word","start":276,"end":278,"value":"an"}
+{"time":19302,"type":"word","start":279,"end":288,"value":"agreeable"}
+{"time":19765,"type":"word","start":289,"end":293,"value":"idea"}
+{"time":20720,"type":"sentence","start":295,"end":354,"value":"Scrooge shivered, and wiped the perspiration from his brow."}
+{"time":20795,"type":"word","start":295,"end":302,"value":"Scrooge"}
+{"time":21195,"type":"word","start":303,"end":311,"value":"shivered"}
+{"time":21820,"type":"word","start":313,"end":316,"value":"and"}
+{"time":21982,"type":"word","start":317,"end":322,"value":"wiped"}
+{"time":22207,"type":"word","start":323,"end":326,"value":"the"}
+{"time":22282,"type":"word","start":327,"end":339,"value":"perspiration"}
+{"time":22995,"type":"word","start":340,"end":344,"value":"from"}
+{"time":23170,"type":"word","start":345,"end":348,"value":"his"}
+{"time":23295,"type":"word","start":349,"end":353,"value":"brow"}

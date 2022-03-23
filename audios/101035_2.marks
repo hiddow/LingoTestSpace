@@ -1,0 +1,11 @@
+{"time":0,"type":"sentence","start":0,"end":41,"value":"You'll want all day to-morrow, I suppose?"}
+{"time":87,"type":"word","start":0,"end":6,"value":"You'll"}
+{"time":237,"type":"word","start":7,"end":11,"value":"want"}
+{"time":437,"type":"word","start":12,"end":15,"value":"all"}
+{"time":600,"type":"word","start":16,"end":19,"value":"day"}
+{"time":762,"type":"word","start":20,"end":29,"value":"to-morrow"}
+{"time":1512,"type":"word","start":31,"end":32,"value":"I"}
+{"time":1612,"type":"word","start":33,"end":40,"value":"suppose"}
+{"time":2617,"type":"sentence","start":42,"end":55,"value":"said Scrooge."}
+{"time":2755,"type":"word","start":42,"end":46,"value":"said"}
+{"time":3030,"type":"word","start":47,"end":54,"value":"Scrooge"}

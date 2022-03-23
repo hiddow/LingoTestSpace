@@ -1,0 +1,13 @@
+{"time":0,"type":"sentence","start":0,"end":67,"value":"Scrooge fell upon his knees, and clasped his hands before his face."}
+{"time":200,"type":"word","start":0,"end":7,"value":"Scrooge"}
+{"time":712,"type":"word","start":8,"end":12,"value":"fell"}
+{"time":937,"type":"word","start":13,"end":17,"value":"upon"}
+{"time":1200,"type":"word","start":18,"end":21,"value":"his"}
+{"time":1437,"type":"word","start":22,"end":27,"value":"knees"}
+{"time":2087,"type":"word","start":29,"end":32,"value":"and"}
+{"time":2262,"type":"word","start":33,"end":40,"value":"clasped"}
+{"time":2712,"type":"word","start":41,"end":44,"value":"his"}
+{"time":2887,"type":"word","start":45,"end":50,"value":"hands"}
+{"time":3250,"type":"word","start":51,"end":57,"value":"before"}
+{"time":3587,"type":"word","start":58,"end":61,"value":"his"}
+{"time":3887,"type":"word","start":62,"end":66,"value":"face"}

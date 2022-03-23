@@ -1,0 +1,18 @@
+{"time":0,"type":"sentence","start":0,"end":8,"value":"But why?"}
+{"time":125,"type":"word","start":0,"end":3,"value":"But"}
+{"time":312,"type":"word","start":4,"end":7,"value":"why"}
+{"time":1167,"type":"sentence","start":9,"end":32,"value":"cried Scrooge's nephew."}
+{"time":1305,"type":"word","start":9,"end":14,"value":"cried"}
+{"time":1730,"type":"word","start":15,"end":24,"value":"Scrooge's"}
+{"time":2292,"type":"word","start":25,"end":31,"value":"nephew"}
+{"time":3135,"type":"sentence","start":33,"end":37,"value":"Why?"}
+{"time":3335,"type":"word","start":33,"end":36,"value":"Why"}
+{"time":4177,"type":"sentence","start":38,"end":62,"value":"Why did you get married?"}
+{"time":4377,"type":"word","start":38,"end":41,"value":"Why"}
+{"time":4627,"type":"word","start":42,"end":45,"value":"did"}
+{"time":4777,"type":"word","start":46,"end":49,"value":"you"}
+{"time":4890,"type":"word","start":50,"end":53,"value":"get"}
+{"time":5115,"type":"word","start":54,"end":61,"value":"married"}
+{"time":5982,"type":"sentence","start":63,"end":76,"value":"said Scrooge."}
+{"time":6182,"type":"word","start":63,"end":67,"value":"said"}
+{"time":6482,"type":"word","start":68,"end":75,"value":"Scrooge"}

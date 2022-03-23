@@ -1,0 +1,42 @@
+{"time":0,"type":"sentence","start":0,"end":81,"value":"Without their visits,\" said the Ghost, \"you cannot hope to shun the path I tread."}
+{"time":187,"type":"word","start":0,"end":7,"value":"Without"}
+{"time":500,"type":"word","start":8,"end":13,"value":"their"}
+{"time":687,"type":"word","start":14,"end":20,"value":"visits"}
+{"time":1487,"type":"word","start":23,"end":27,"value":"said"}
+{"time":1700,"type":"word","start":28,"end":31,"value":"the"}
+{"time":1837,"type":"word","start":32,"end":37,"value":"Ghost"}
+{"time":2387,"type":"word","start":40,"end":43,"value":"you"}
+{"time":2637,"type":"word","start":44,"end":50,"value":"cannot"}
+{"time":3000,"type":"word","start":51,"end":55,"value":"hope"}
+{"time":3250,"type":"word","start":56,"end":58,"value":"to"}
+{"time":3387,"type":"word","start":59,"end":63,"value":"shun"}
+{"time":3625,"type":"word","start":64,"end":67,"value":"the"}
+{"time":3725,"type":"word","start":68,"end":72,"value":"path"}
+{"time":4187,"type":"word","start":73,"end":74,"value":"I"}
+{"time":4250,"type":"word","start":75,"end":80,"value":"tread"}
+{"time":5067,"type":"sentence","start":82,"end":134,"value":"Expect the first to-morrow, when the bell tolls One."}
+{"time":5205,"type":"word","start":82,"end":88,"value":"Expect"}
+{"time":5755,"type":"word","start":89,"end":92,"value":"the"}
+{"time":5905,"type":"word","start":93,"end":98,"value":"first"}
+{"time":6205,"type":"word","start":99,"end":108,"value":"to-morrow"}
+{"time":6842,"type":"word","start":110,"end":114,"value":"when"}
+{"time":7130,"type":"word","start":115,"end":118,"value":"the"}
+{"time":7205,"type":"word","start":119,"end":123,"value":"bell"}
+{"time":7530,"type":"word","start":124,"end":129,"value":"tolls"}
+{"time":7892,"type":"word","start":130,"end":133,"value":"One"}
+{"time":8647,"type":"sentence","start":135,"end":192,"value":"Couldn't I take 'em all at once, and have it over, Jacob?"}
+{"time":8772,"type":"word","start":135,"end":143,"value":"Couldn't"}
+{"time":9097,"type":"word","start":144,"end":145,"value":"I"}
+{"time":9222,"type":"word","start":146,"end":150,"value":"take"}
+{"time":9460,"type":"word","start":151,"end":154,"value":"'em"}
+{"time":9685,"type":"word","start":155,"end":158,"value":"all"}
+{"time":9847,"type":"word","start":159,"end":161,"value":"at"}
+{"time":10022,"type":"word","start":162,"end":166,"value":"once"}
+{"time":10685,"type":"word","start":168,"end":171,"value":"and"}
+{"time":10835,"type":"word","start":172,"end":176,"value":"have"}
+{"time":11035,"type":"word","start":177,"end":179,"value":"it"}
+{"time":11285,"type":"word","start":180,"end":184,"value":"over"}
+{"time":11835,"type":"word","start":186,"end":191,"value":"Jacob"}
+{"time":12752,"type":"sentence","start":193,"end":208,"value":"hinted Scrooge."}
+{"time":12890,"type":"word","start":193,"end":199,"value":"hinted"}
+{"time":13377,"type":"word","start":200,"end":207,"value":"Scrooge"}

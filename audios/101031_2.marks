@@ -1,0 +1,71 @@
+{"time":0,"type":"sentence","start":0,"end":40,"value":"It's not my business,\" Scrooge returned."}
+{"time":100,"type":"word","start":0,"end":4,"value":"It's"}
+{"time":287,"type":"word","start":5,"end":8,"value":"not"}
+{"time":475,"type":"word","start":9,"end":11,"value":"my"}
+{"time":625,"type":"word","start":12,"end":20,"value":"business"}
+{"time":1350,"type":"word","start":23,"end":30,"value":"Scrooge"}
+{"time":1762,"type":"word","start":31,"end":39,"value":"returned"}
+{"time":2755,"type":"sentence","start":41,"end":136,"value":"It's enough for a man to understand his own business, and not to interfere with other people's."}
+{"time":2855,"type":"word","start":41,"end":45,"value":"It's"}
+{"time":3042,"type":"word","start":46,"end":52,"value":"enough"}
+{"time":3280,"type":"word","start":53,"end":56,"value":"for"}
+{"time":3455,"type":"word","start":57,"end":58,"value":"a"}
+{"time":3492,"type":"word","start":59,"end":62,"value":"man"}
+{"time":3755,"type":"word","start":63,"end":65,"value":"to"}
+{"time":3905,"type":"word","start":66,"end":76,"value":"understand"}
+{"time":4355,"type":"word","start":77,"end":80,"value":"his"}
+{"time":4492,"type":"word","start":81,"end":84,"value":"own"}
+{"time":4667,"type":"word","start":85,"end":93,"value":"business"}
+{"time":5355,"type":"word","start":95,"end":98,"value":"and"}
+{"time":5480,"type":"word","start":99,"end":102,"value":"not"}
+{"time":5680,"type":"word","start":103,"end":105,"value":"to"}
+{"time":5830,"type":"word","start":106,"end":115,"value":"interfere"}
+{"time":6230,"type":"word","start":116,"end":120,"value":"with"}
+{"time":6380,"type":"word","start":121,"end":126,"value":"other"}
+{"time":6555,"type":"word","start":127,"end":135,"value":"people's"}
+{"time":7535,"type":"sentence","start":137,"end":165,"value":"Mine occupies me constantly."}
+{"time":7697,"type":"word","start":137,"end":141,"value":"Mine"}
+{"time":7972,"type":"word","start":142,"end":150,"value":"occupies"}
+{"time":8472,"type":"word","start":151,"end":153,"value":"me"}
+{"time":8585,"type":"word","start":154,"end":164,"value":"constantly"}
+{"time":9652,"type":"sentence","start":166,"end":192,"value":"Good afternoon, gentlemen!"}
+{"time":9740,"type":"word","start":166,"end":170,"value":"Good"}
+{"time":9865,"type":"word","start":171,"end":180,"value":"afternoon"}
+{"time":10665,"type":"word","start":182,"end":191,"value":"gentlemen"}
+{"time":11682,"type":"sentence","start":193,"end":279,"value":"Seeing clearly that it would be useless to pursue their point, the gentlemen withdrew."}
+{"time":11757,"type":"word","start":193,"end":199,"value":"Seeing"}
+{"time":12120,"type":"word","start":200,"end":207,"value":"clearly"}
+{"time":12545,"type":"word","start":208,"end":212,"value":"that"}
+{"time":12695,"type":"word","start":213,"end":215,"value":"it"}
+{"time":12757,"type":"word","start":216,"end":221,"value":"would"}
+{"time":12882,"type":"word","start":222,"end":224,"value":"be"}
+{"time":12970,"type":"word","start":225,"end":232,"value":"useless"}
+{"time":13470,"type":"word","start":233,"end":235,"value":"to"}
+{"time":13557,"type":"word","start":236,"end":242,"value":"pursue"}
+{"time":13895,"type":"word","start":243,"end":248,"value":"their"}
+{"time":14020,"type":"word","start":249,"end":254,"value":"point"}
+{"time":14607,"type":"word","start":256,"end":259,"value":"the"}
+{"time":14707,"type":"word","start":260,"end":269,"value":"gentlemen"}
+{"time":15157,"type":"word","start":270,"end":278,"value":"withdrew"}
+{"time":16150,"type":"sentence","start":280,"end":400,"value":"Scrooge resumed his labours with an improved opinion of himself, and in a more facetious temper than was usual with him."}
+{"time":16225,"type":"word","start":280,"end":287,"value":"Scrooge"}
+{"time":16687,"type":"word","start":288,"end":295,"value":"resumed"}
+{"time":17062,"type":"word","start":296,"end":299,"value":"his"}
+{"time":17200,"type":"word","start":300,"end":307,"value":"labours"}
+{"time":17612,"type":"word","start":308,"end":312,"value":"with"}
+{"time":17775,"type":"word","start":313,"end":315,"value":"an"}
+{"time":17837,"type":"word","start":316,"end":324,"value":"improved"}
+{"time":18275,"type":"word","start":325,"end":332,"value":"opinion"}
+{"time":18612,"type":"word","start":333,"end":335,"value":"of"}
+{"time":18712,"type":"word","start":336,"end":343,"value":"himself"}
+{"time":19462,"type":"word","start":345,"end":348,"value":"and"}
+{"time":19612,"type":"word","start":349,"end":351,"value":"in"}
+{"time":19700,"type":"word","start":352,"end":353,"value":"a"}
+{"time":19737,"type":"word","start":354,"end":358,"value":"more"}
+{"time":19987,"type":"word","start":359,"end":368,"value":"facetious"}
+{"time":20537,"type":"word","start":369,"end":375,"value":"temper"}
+{"time":20862,"type":"word","start":376,"end":380,"value":"than"}
+{"time":21012,"type":"word","start":381,"end":384,"value":"was"}
+{"time":21162,"type":"word","start":385,"end":390,"value":"usual"}
+{"time":21525,"type":"word","start":391,"end":395,"value":"with"}
+{"time":21687,"type":"word","start":396,"end":399,"value":"him"}

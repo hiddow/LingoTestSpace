@@ -1,0 +1,22 @@
+{"time":0,"type":"sentence","start":0,"end":41,"value":"In life I was your partner, Jacob Marley."}
+{"time":100,"type":"word","start":0,"end":2,"value":"In"}
+{"time":250,"type":"word","start":3,"end":7,"value":"life"}
+{"time":562,"type":"word","start":8,"end":9,"value":"I"}
+{"time":625,"type":"word","start":10,"end":13,"value":"was"}
+{"time":800,"type":"word","start":14,"end":18,"value":"your"}
+{"time":900,"type":"word","start":19,"end":26,"value":"partner"}
+{"time":1575,"type":"word","start":28,"end":33,"value":"Jacob"}
+{"time":1937,"type":"word","start":34,"end":40,"value":"Marley"}
+{"time":2842,"type":"sentence","start":42,"end":68,"value":"Can you--can you sit down?"}
+{"time":2992,"type":"word","start":42,"end":45,"value":"Can"}
+{"time":3130,"type":"word","start":46,"end":54,"value":"you--can"}
+{"time":3355,"type":"word","start":55,"end":58,"value":"you"}
+{"time":3442,"type":"word","start":59,"end":62,"value":"sit"}
+{"time":3667,"type":"word","start":63,"end":67,"value":"down"}
+{"time":4510,"type":"sentence","start":69,"end":110,"value":"asked Scrooge, looking doubtfully at him."}
+{"time":4610,"type":"word","start":69,"end":74,"value":"asked"}
+{"time":4885,"type":"word","start":75,"end":82,"value":"Scrooge"}
+{"time":5647,"type":"word","start":84,"end":91,"value":"looking"}
+{"time":5960,"type":"word","start":92,"end":102,"value":"doubtfully"}
+{"time":6435,"type":"word","start":103,"end":105,"value":"at"}
+{"time":6510,"type":"word","start":106,"end":109,"value":"him"}

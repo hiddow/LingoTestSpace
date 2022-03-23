@@ -1,0 +1,77 @@
+{"time":0,"type":"sentence","start":0,"end":56,"value":"That is no light part of my penance,\" pursued the Ghost."}
+{"time":137,"type":"word","start":0,"end":4,"value":"That"}
+{"time":312,"type":"word","start":5,"end":7,"value":"is"}
+{"time":500,"type":"word","start":8,"end":10,"value":"no"}
+{"time":750,"type":"word","start":11,"end":16,"value":"light"}
+{"time":1037,"type":"word","start":17,"end":21,"value":"part"}
+{"time":1312,"type":"word","start":22,"end":24,"value":"of"}
+{"time":1437,"type":"word","start":25,"end":27,"value":"my"}
+{"time":1625,"type":"word","start":28,"end":35,"value":"penance"}
+{"time":2312,"type":"word","start":38,"end":45,"value":"pursued"}
+{"time":2825,"type":"word","start":46,"end":49,"value":"the"}
+{"time":2950,"type":"word","start":50,"end":55,"value":"Ghost"}
+{"time":3792,"type":"sentence","start":57,"end":145,"value":"I am here to-night to warn you, that you have yet a chance and hope of escaping my fate."}
+{"time":3980,"type":"word","start":57,"end":58,"value":"I"}
+{"time":4042,"type":"word","start":59,"end":61,"value":"am"}
+{"time":4242,"type":"word","start":62,"end":66,"value":"here"}
+{"time":4505,"type":"word","start":67,"end":75,"value":"to-night"}
+{"time":4855,"type":"word","start":76,"end":78,"value":"to"}
+{"time":5042,"type":"word","start":79,"end":83,"value":"warn"}
+{"time":5305,"type":"word","start":84,"end":87,"value":"you"}
+{"time":5730,"type":"word","start":89,"end":93,"value":"that"}
+{"time":5917,"type":"word","start":94,"end":97,"value":"you"}
+{"time":6042,"type":"word","start":98,"end":102,"value":"have"}
+{"time":6217,"type":"word","start":103,"end":106,"value":"yet"}
+{"time":6430,"type":"word","start":107,"end":108,"value":"a"}
+{"time":6542,"type":"word","start":109,"end":115,"value":"chance"}
+{"time":6917,"type":"word","start":116,"end":119,"value":"and"}
+{"time":7080,"type":"word","start":120,"end":124,"value":"hope"}
+{"time":7355,"type":"word","start":125,"end":127,"value":"of"}
+{"time":7480,"type":"word","start":128,"end":136,"value":"escaping"}
+{"time":8042,"type":"word","start":137,"end":139,"value":"my"}
+{"time":8230,"type":"word","start":140,"end":144,"value":"fate"}
+{"time":8985,"type":"sentence","start":146,"end":190,"value":"A chance and hope of my procuring, Ebenezer."}
+{"time":9172,"type":"word","start":146,"end":147,"value":"A"}
+{"time":9285,"type":"word","start":148,"end":154,"value":"chance"}
+{"time":9672,"type":"word","start":155,"end":158,"value":"and"}
+{"time":9822,"type":"word","start":159,"end":163,"value":"hope"}
+{"time":10110,"type":"word","start":164,"end":166,"value":"of"}
+{"time":10235,"type":"word","start":167,"end":169,"value":"my"}
+{"time":10360,"type":"word","start":170,"end":179,"value":"procuring"}
+{"time":11310,"type":"word","start":181,"end":189,"value":"Ebenezer"}
+{"time":12402,"type":"sentence","start":191,"end":242,"value":"You were always a good friend to me,\" said Scrooge."}
+{"time":12465,"type":"word","start":191,"end":194,"value":"You"}
+{"time":12702,"type":"word","start":195,"end":199,"value":"were"}
+{"time":12902,"type":"word","start":200,"end":206,"value":"always"}
+{"time":13277,"type":"word","start":207,"end":208,"value":"a"}
+{"time":13402,"type":"word","start":209,"end":213,"value":"good"}
+{"time":13552,"type":"word","start":214,"end":220,"value":"friend"}
+{"time":13840,"type":"word","start":221,"end":223,"value":"to"}
+{"time":13965,"type":"word","start":224,"end":226,"value":"me"}
+{"time":14440,"type":"word","start":229,"end":233,"value":"said"}
+{"time":14777,"type":"word","start":234,"end":241,"value":"Scrooge"}
+{"time":15720,"type":"sentence","start":243,"end":252,"value":"Thank'ee!"}
+{"time":15920,"type":"word","start":243,"end":251,"value":"Thank'ee"}
+{"time":16812,"type":"sentence","start":253,"end":312,"value":"You will be haunted,\" resumed the Ghost, \"by Three Spirits."}
+{"time":16950,"type":"word","start":253,"end":256,"value":"You"}
+{"time":17062,"type":"word","start":257,"end":261,"value":"will"}
+{"time":17225,"type":"word","start":262,"end":264,"value":"be"}
+{"time":17387,"type":"word","start":265,"end":272,"value":"haunted"}
+{"time":18062,"type":"word","start":275,"end":282,"value":"resumed"}
+{"time":18650,"type":"word","start":283,"end":286,"value":"the"}
+{"time":18750,"type":"word","start":287,"end":292,"value":"Ghost"}
+{"time":19237,"type":"word","start":295,"end":297,"value":"by"}
+{"time":19562,"type":"word","start":298,"end":303,"value":"Three"}
+{"time":19875,"type":"word","start":304,"end":311,"value":"Spirits"}
+{"time":20817,"type":"sentence","start":313,"end":378,"value":"Scrooge's countenance fell almost as low as the Ghost's had done."}
+{"time":21017,"type":"word","start":313,"end":322,"value":"Scrooge's"}
+{"time":21567,"type":"word","start":323,"end":334,"value":"countenance"}
+{"time":22280,"type":"word","start":335,"end":339,"value":"fell"}
+{"time":22567,"type":"word","start":340,"end":346,"value":"almost"}
+{"time":22955,"type":"word","start":347,"end":349,"value":"as"}
+{"time":23205,"type":"word","start":350,"end":353,"value":"low"}
+{"time":23567,"type":"word","start":354,"end":356,"value":"as"}
+{"time":23642,"type":"word","start":357,"end":360,"value":"the"}
+{"time":23880,"type":"word","start":361,"end":368,"value":"Ghost's"}
+{"time":24317,"type":"word","start":369,"end":372,"value":"had"}
+{"time":24542,"type":"word","start":373,"end":377,"value":"done"}

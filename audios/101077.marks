@@ -1,0 +1,21 @@
+{"time":0,"type":"sentence","start":0,"end":127,"value":"You must have been very slow about it, Jacob,\" Scrooge observed, in a business-like manner, though with humility and deference."}
+{"time":137,"type":"word","start":0,"end":3,"value":"You"}
+{"time":312,"type":"word","start":4,"end":8,"value":"must"}
+{"time":575,"type":"word","start":9,"end":13,"value":"have"}
+{"time":712,"type":"word","start":14,"end":18,"value":"been"}
+{"time":937,"type":"word","start":19,"end":23,"value":"very"}
+{"time":1250,"type":"word","start":24,"end":28,"value":"slow"}
+{"time":1512,"type":"word","start":29,"end":34,"value":"about"}
+{"time":1850,"type":"word","start":35,"end":37,"value":"it"}
+{"time":2312,"type":"word","start":39,"end":44,"value":"Jacob"}
+{"time":3125,"type":"word","start":47,"end":54,"value":"Scrooge"}
+{"time":3500,"type":"word","start":55,"end":63,"value":"observed"}
+{"time":4250,"type":"word","start":65,"end":67,"value":"in"}
+{"time":4412,"type":"word","start":68,"end":69,"value":"a"}
+{"time":4500,"type":"word","start":70,"end":83,"value":"business-like"}
+{"time":5150,"type":"word","start":84,"end":90,"value":"manner"}
+{"time":5625,"type":"word","start":92,"end":98,"value":"though"}
+{"time":5912,"type":"word","start":99,"end":103,"value":"with"}
+{"time":6062,"type":"word","start":104,"end":112,"value":"humility"}
+{"time":6750,"type":"word","start":113,"end":116,"value":"and"}
+{"time":6875,"type":"word","start":117,"end":126,"value":"deference"}

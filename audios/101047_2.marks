@@ -1,0 +1,51 @@
+{"time":0,"type":"sentence","start":0,"end":46,"value":"Up Scrooge went, not caring a button for that."}
+{"time":100,"type":"word","start":0,"end":2,"value":"Up"}
+{"time":250,"type":"word","start":3,"end":10,"value":"Scrooge"}
+{"time":587,"type":"word","start":11,"end":15,"value":"went"}
+{"time":1100,"type":"word","start":17,"end":20,"value":"not"}
+{"time":1325,"type":"word","start":21,"end":27,"value":"caring"}
+{"time":1650,"type":"word","start":28,"end":29,"value":"a"}
+{"time":1700,"type":"word","start":30,"end":36,"value":"button"}
+{"time":1987,"type":"word","start":37,"end":40,"value":"for"}
+{"time":2112,"type":"word","start":41,"end":45,"value":"that"}
+{"time":2880,"type":"sentence","start":47,"end":87,"value":"Darkness is cheap, and Scrooge liked it."}
+{"time":2955,"type":"word","start":47,"end":55,"value":"Darkness"}
+{"time":3442,"type":"word","start":56,"end":58,"value":"is"}
+{"time":3580,"type":"word","start":59,"end":64,"value":"cheap"}
+{"time":4142,"type":"word","start":66,"end":69,"value":"and"}
+{"time":4292,"type":"word","start":70,"end":77,"value":"Scrooge"}
+{"time":4642,"type":"word","start":78,"end":83,"value":"liked"}
+{"time":4917,"type":"word","start":84,"end":86,"value":"it"}
+{"time":5522,"type":"sentence","start":88,"end":177,"value":"But before he shut his heavy door, he walked through his rooms to see that all was right."}
+{"time":5597,"type":"word","start":88,"end":91,"value":"But"}
+{"time":5785,"type":"word","start":92,"end":98,"value":"before"}
+{"time":6147,"type":"word","start":99,"end":101,"value":"he"}
+{"time":6222,"type":"word","start":102,"end":106,"value":"shut"}
+{"time":6447,"type":"word","start":107,"end":110,"value":"his"}
+{"time":6585,"type":"word","start":111,"end":116,"value":"heavy"}
+{"time":6810,"type":"word","start":117,"end":121,"value":"door"}
+{"time":7410,"type":"word","start":123,"end":125,"value":"he"}
+{"time":7535,"type":"word","start":126,"end":132,"value":"walked"}
+{"time":7835,"type":"word","start":133,"end":140,"value":"through"}
+{"time":8022,"type":"word","start":141,"end":144,"value":"his"}
+{"time":8185,"type":"word","start":145,"end":150,"value":"rooms"}
+{"time":8497,"type":"word","start":151,"end":153,"value":"to"}
+{"time":8597,"type":"word","start":154,"end":157,"value":"see"}
+{"time":8797,"type":"word","start":158,"end":162,"value":"that"}
+{"time":8922,"type":"word","start":163,"end":166,"value":"all"}
+{"time":9072,"type":"word","start":167,"end":170,"value":"was"}
+{"time":9272,"type":"word","start":171,"end":176,"value":"right"}
+{"time":10052,"type":"sentence","start":178,"end":243,"value":"He had just enough recollection of the face to desire to do that."}
+{"time":10215,"type":"word","start":178,"end":180,"value":"He"}
+{"time":10352,"type":"word","start":181,"end":184,"value":"had"}
+{"time":10452,"type":"word","start":185,"end":189,"value":"just"}
+{"time":10715,"type":"word","start":190,"end":196,"value":"enough"}
+{"time":10990,"type":"word","start":197,"end":209,"value":"recollection"}
+{"time":11502,"type":"word","start":210,"end":212,"value":"of"}
+{"time":11590,"type":"word","start":213,"end":216,"value":"the"}
+{"time":11665,"type":"word","start":217,"end":221,"value":"face"}
+{"time":12002,"type":"word","start":222,"end":224,"value":"to"}
+{"time":12102,"type":"word","start":225,"end":231,"value":"desire"}
+{"time":12490,"type":"word","start":232,"end":234,"value":"to"}
+{"time":12602,"type":"word","start":235,"end":237,"value":"do"}
+{"time":12777,"type":"word","start":238,"end":242,"value":"that"}

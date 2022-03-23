@@ -1,0 +1,28 @@
+{"time":0,"type":"sentence","start":0,"end":56,"value":"It certainly was; for they had been two kindred spirits."}
+{"time":100,"type":"word","start":0,"end":2,"value":"It"}
+{"time":237,"type":"word","start":3,"end":12,"value":"certainly"}
+{"time":600,"type":"word","start":13,"end":16,"value":"was"}
+{"time":1212,"type":"word","start":18,"end":21,"value":"for"}
+{"time":1362,"type":"word","start":22,"end":26,"value":"they"}
+{"time":1487,"type":"word","start":27,"end":30,"value":"had"}
+{"time":1600,"type":"word","start":31,"end":35,"value":"been"}
+{"time":1775,"type":"word","start":36,"end":39,"value":"two"}
+{"time":1950,"type":"word","start":40,"end":47,"value":"kindred"}
+{"time":2312,"type":"word","start":48,"end":55,"value":"spirits"}
+{"time":3292,"type":"sentence","start":57,"end":160,"value":"At the ominous word \"liberality,\" Scrooge frowned, and shook his head, and handed the credentials back."}
+{"time":3392,"type":"word","start":57,"end":59,"value":"At"}
+{"time":3530,"type":"word","start":60,"end":63,"value":"the"}
+{"time":3680,"type":"word","start":64,"end":71,"value":"ominous"}
+{"time":4030,"type":"word","start":72,"end":76,"value":"word"}
+{"time":4292,"type":"word","start":78,"end":88,"value":"liberality"}
+{"time":5155,"type":"word","start":91,"end":98,"value":"Scrooge"}
+{"time":5542,"type":"word","start":99,"end":106,"value":"frowned"}
+{"time":6242,"type":"word","start":108,"end":111,"value":"and"}
+{"time":6380,"type":"word","start":112,"end":117,"value":"shook"}
+{"time":6592,"type":"word","start":118,"end":121,"value":"his"}
+{"time":6742,"type":"word","start":122,"end":126,"value":"head"}
+{"time":7255,"type":"word","start":128,"end":131,"value":"and"}
+{"time":7380,"type":"word","start":132,"end":138,"value":"handed"}
+{"time":7667,"type":"word","start":139,"end":142,"value":"the"}
+{"time":7730,"type":"word","start":143,"end":154,"value":"credentials"}
+{"time":8230,"type":"word","start":155,"end":159,"value":"back"}
